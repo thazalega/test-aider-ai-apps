@@ -1,6 +1,8 @@
 # Pong Game
 A simple Pong game developed using Python and Pygame.
 
+LLM used: qwen2.5-coder 7b q4 with 20.000 num_ctx
+
 ## Features
 - Main menu with options to start or exit the game
 - Basic Pong game mechanics
