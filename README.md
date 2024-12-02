@@ -1,32 +1,7 @@
-# Pong Game
-A simple Pong game developed using Python and Pygame.
+# About this repository
 
-## Features
-- Main menu with options to start or exit the game
-- Basic Pong game mechanics
-- Simple and clean user interface (W key to move up, S key to move down)
+This repository contains simple and, depending on the success, more complex applications. I created the project to demonstrate the capabilities of local LLM models and tools such as Aider-AI. The main goal is that the applications are created purely by LLMs with the help of certain tools without having to make changes to the application code, which means that errors can only be eliminated by the LLMs themselves and intervention is only permitted via the prompt.
 
-## Requirements
-- Python 3.x
-- Pygame
+## app's
 
-## Installation
-1. Install the required dependencies:
-    ```bash
-    pip install pygame
-    ```
-
-## Usage
-To run the game, execute the following command:
-```bash
-python main.py
-```
-
-## Project Structure
-- `main/`
-  - `__init__.py`: Initialization file for the main module.
-  - `game.py`: Contains the code for the main game logic.
-  - `menu.py`: Contains the code for the main menu of the game.
-- `main.py`: Entry point for the game.
-- `README.md`: Information about the project.
-- `requirements`.txt: List of dependencies for the project.
+### 1. Pong Game
